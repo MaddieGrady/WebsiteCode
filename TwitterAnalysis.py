@@ -67,7 +67,7 @@ for i in range(0,totaltweets):
 retweetpercentage = round(retweettotal/totaltweets*100, 2)
 engagmentpercentage = round(engagementtotal/totaltweets*100, 2)
 
-print(dayoftweetwithengagment)
+
 
 
 
